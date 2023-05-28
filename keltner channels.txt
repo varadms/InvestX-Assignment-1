@@ -1,0 +1,3 @@
+Using a multiplier greater than two will widen the upper band of the Keltner Channel. This means that the upper band will be further away from the centerline, capturing more volatile price movements. It may lead to a higher number of false signals and increased noise.
+
+Using a multiplier less than two will narrow the upper band of the Keltner Channel. This results in a closer proximity between the upper band and the centerline, capturing smaller price fluctuations. A narrower channel can be useful for identifying periods of reduced volatility or potential consolidation phases. However, it may also generate fewer signals and miss out on significant price movements.

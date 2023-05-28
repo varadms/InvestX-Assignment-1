@@ -1,0 +1,16 @@
+1)Conversion lines (period=9)
+If the period of the Conversion Line is made more than 9, smoother lines appeared more; these are less sensitive to short-term price fluctuations.
+
+If the period is decreased, the lines res to short-term price movements, potentially generating more frequent signals. It results in false signals.
+2) baseline 
+We have the same observations as conversion lines
+3)Leading span A and B
+If the period of the Leading Span A/B is increased, the projection will be based on a longer time frame. This results in a wider cloud that may encompass a broader range of price data. The extended period could provide a stronger indication of long-term trends and support/resistance levels, but it may also result in slower adjustments to changes in market conditions.
+
+On the other hand, if the period is decreased the projection will be based on a shorter time frame. This leads to a narrower cloud that may be more responsive to short-term price movements. It may generate more frequent adjustments to changes in the market, but it could also increase the potential for false signals or noise due to the sensitivity to smaller price fluctuations.
+
+4)Lagging span
+If the period of the Lagging Span is increased, the line will be plotted further back on the chart. This results in a longer lag between the current price movements and the Lagging Span's representation. As a result, it may be less sensitive to recent market developments.
+
+Conversely, if the period is decreased, the Lagging Span will be plotted closer to the current price. This can make it more responsive to recent price movements, potentially providing faster confirmation signals. However, it may also increase the likelihood of false or premature signals due to the increased sensitivity to shorter-term fluctuations.
+ 

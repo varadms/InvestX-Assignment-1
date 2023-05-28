@@ -1,0 +1,3 @@
+A longer period, such as 30, may provide a smoother and more stable reading, capturing the average ease of price movement over a longer timeframe. This could be suitable for longer-term analysis.
+
+A shorter period, such as 14, may be more sensitive to recent price and volume changes, capturing short-term fluctuations in price movement. This could be suitable for shorter-term analysis or day trading.
